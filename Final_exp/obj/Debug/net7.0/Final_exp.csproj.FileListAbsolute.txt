@@ -1,0 +1,15 @@
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\bin\Debug\net7.0\Final_exp.exe
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\bin\Debug\net7.0\Final_exp.deps.json
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\bin\Debug\net7.0\Final_exp.runtimeconfig.json
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\bin\Debug\net7.0\Final_exp.dll
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\bin\Debug\net7.0\Final_exp.pdb
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\obj\Debug\net7.0\Final_exp.csproj.AssemblyReference.cache
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\obj\Debug\net7.0\Final_exp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\obj\Debug\net7.0\Final_exp.AssemblyInfoInputs.cache
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\obj\Debug\net7.0\Final_exp.AssemblyInfo.cs
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\obj\Debug\net7.0\Final_exp.csproj.CoreCompileInputs.cache
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\obj\Debug\net7.0\Final_exp.dll
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\obj\Debug\net7.0\refint\Final_exp.dll
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\obj\Debug\net7.0\Final_exp.pdb
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\obj\Debug\net7.0\Final_exp.genruntimeconfig.cache
+C:\Users\B-ZONE\Desktop\C#\final_exp\Final_exp\obj\Debug\net7.0\ref\Final_exp.dll
